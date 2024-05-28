@@ -1,4 +1,4 @@
-module Spa2 exposing (Model, Msg(..), init, main, mainContent, menu, subscriptions, update, view)
+module Spa2 exposing (main)
 
 import Bootstrap.CDN as CDN
 import Bootstrap.Grid as Grid
