@@ -25,9 +25,10 @@ init flags =
     ( Model Home, Cmd.none )
 
 
+# implement url navigation
+
 
 -- UPDATE
-
 
 type Msg
     = GoHome
